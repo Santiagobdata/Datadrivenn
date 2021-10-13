@@ -2,7 +2,7 @@
 const configuration = {
   SiteName: 'DATADRIVEN',
   NumberOfVerticalLines: 20,
-  NumberOfDots: 5000,
+  NumberOfDots: 4000,
   colors: {
     CanvasBackgroundColor: '#141414',
     LettersColor: '#ecdcec',
